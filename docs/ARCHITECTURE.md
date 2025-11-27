@@ -50,4 +50,4 @@ sequenceDiagram
 *Note: This is a high-level architecture diagram. For detailed implementation, please refer to the source code.*
 
 
-<!-- Updated: 2025-11-27 12:09:24 -->
+<!-- Updated: 2025-11-27 12:17:54 -->
