@@ -42,4 +42,4 @@ All responses are in JSON format:
 *Note: This is an auto-generated template. For detailed API documentation, please refer to the source code.*
 
 
-<!-- Updated: 2025-11-27 16:42:26 -->
+<!-- Updated: 2025-12-01 09:42:15 -->
