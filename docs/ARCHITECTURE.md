@@ -45,9 +45,6 @@ sequenceDiagram
     Frontend-->>-User: Result
 ```
 
----
-
-*Note: This is a high-level architecture diagram. For detailed implementation, please refer to the source code.*
 
 
-<!-- Updated: 2025-12-01 09:42:15 -->
+<!-- Updated: 2025-12-01 09:48:50 -->
